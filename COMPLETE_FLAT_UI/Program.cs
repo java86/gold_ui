@@ -10,7 +10,7 @@ namespace COMPLETE_FLAT_UI
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
-        /// </summary2>
+        /// </summary7>
         [STAThread]
         static void Main()
         {
